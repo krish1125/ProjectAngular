@@ -1,0 +1,80 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Mark Don",
+      "contactPreference": "email",
+      "email": "mark.don@gmail.com",
+      "phone": "5641738972",
+      "skills": [
+        {
+          "skillName": "java",
+          "experienceInYears": "3",
+          "proficiency": "intermediate"
+        },
+        {
+          "skillName": "c#",
+          "experienceInYears": "5",
+          "proficiency": "advanced"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "John Brown",
+      "contactPreference": "email",
+      "email": "john.brown@gmail.com",
+      "phone": "3242138971",
+      "skills": [
+        {
+          "skillName": "Angular",
+          "experienceInYears": 2,
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "HTML",
+          "experienceInYears": "5",
+          "proficiency": "advanced"
+        },
+        {
+          "skillName": "LINQ",
+          "experienceInYears": "5",
+          "proficiency": "advanced"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fullName": "krish",
+      "contactPreference": "email",
+      "email": "k@gmail.com",
+      "phone": "4563975681",
+      "skills": [
+        {
+          "skillName": "Angular",
+          "experienceInYears": "3",
+          "proficiency": "intermediate"
+        },
+        {
+          "skillName": "C#",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "fullName": "Alex Cheetri",
+      "contactPreference": "email",
+      "email": "Alex@gmail.com",
+      "phone": "6918374985",
+      "skills": [
+        {
+          "skillName": "Python",
+          "experienceInYears": "2",
+          "proficiency": "beginner"
+        }
+      ]
+    }
+  ]
+}
